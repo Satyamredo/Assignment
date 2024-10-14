@@ -1,0 +1,15 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+$background-theme : #e4e2ee;
+$primary-color : #9d2c2cb8;
+
+body {
+    background-color: $background-theme;
+    font-family: 'Montserrat', sans-serif;
+    width: 100%;
+    height: 100%; 
+}
