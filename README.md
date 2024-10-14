@@ -33,11 +33,11 @@ Users should also be able to sort the displayed tickets in two ways:
 
 1 - Low
 
-0 - No priority
+//0 - No priority
 
 ## Live Demo
 
-Experience the application [here](https://janhavi-quicksell-assignment.vercel.app/)
+Experience the application [here](https://github.com/Satyamredo/Assignment)
 
 ## Repository
 
